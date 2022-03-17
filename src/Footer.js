@@ -76,7 +76,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        PowerBI
+                        PowerBI, AppSheet
                       </a>
                     </li>
                     <li>
