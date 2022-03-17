@@ -1,21 +1,7 @@
 import React from "react";
-// const styles = {
-//   textAlign: "center",
-//   alignItems: "center",
-// };
 
 const Footer = () => {
   return (
-    // <footer id="footer" style={styles}>
-    //   <div>
-    //     <p>
-    //       <a href="https://github.com/drnareshchauhan" className="text-muted">
-    //         <GitHubIcon />
-    //         drnareshchauhan
-    //       </a>
-    //     </p>
-    //   </div>
-    // </footer>
     <>
       <footer>
         <div className="container">
