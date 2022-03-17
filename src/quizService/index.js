@@ -1,374 +1,580 @@
 const qBank = [
   {
     question:
-      "Virgin Trains, Virgin Atlantic and Virgin Racing, are all companies owned by which famous entrepreneur?   ",
-    answers: ["Richard Branson", "Alan Sugar", "Donald Trump", "Bill Gates"],
-    correct: "Richard Branson",
-    questionId: "099099"
+      " List the methods used for nutritional assessment of individuals and families What is diabetic diet?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "1",
   },
   {
     question:
-      'Where is the train station "Llanfair­pwllgwyngyll­gogery­chwyrn­drobwll­llan­tysilio­gogo­goch"?',
-    answers: ["Wales", "Moldova", "Czech Republic", "Denmark"],
-    correct: "Wales",
-    questionId: "183452"
+      " What is exclusive breast feeding?Discuss about good and bad practices related to breast feeding.",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "2",
+  },
+  {
+    question: " What is colostrum?Explain benefits of colostrums",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "3",
   },
   {
     question:
-      "Which company did Valve cooperate with in the creation of the Vive?",
-    answers: ["HTC", "Oculus", "Google", "Razer"],
-    correct: "HTC",
-    questionId: "267908"
-  },
-  {
-    question: "What's the name of Batman's  parents?",
-    answers: [
-      "Thomas & Martha",
-      "Joey & Jackie",
-      "Jason & Sarah",
-      "Todd & Mira"
-    ],
-    correct: "Thomas & Martha",
-    questionId: "333247"
-  },
-  {
-    question: "What is the most common surname Wales?",
-    answers: ["Jones", "Williams", "Davies", "Evans"],
-    correct: "Jones",
-    questionId: "496293"
+      " How would you assess breast feeding practice? Which are the signs of good attachment?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "4",
   },
   {
     question:
-      "What was the name of the WWF professional wrestling tag team made up of the wrestlers Ax and Smash?",
-    answers: [
-      "Demolition",
-      "The Dream Team",
-      "The Bushwhackers",
-      "The British Bulldogs"
-    ],
-    correct: "Demolition",
-    questionId: "588909"
+      " Which are the signs of good positioning for breast feeding?Which are the signs of good attachment? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "5",
+  },
+  {
+    question: " What is safe and wholesome water?What is water purification?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "6",
   },
   {
     question:
-      'What name represents the letter "M" in the NATO phonetic alphabet?',
-    answers: ["Mike", "Matthew", "Mark", "Max"],
-    correct: "Mike",
-    questionId: "648452"
-  },
-  {
-    question: "What is the first book of the Old Testament?",
-    answers: ["Genesis", "Exodus", "Leviticus", "Numbers"],
-    correct: "Genesis",
-    questionId: "786649"
+      " Which are the health hazards due to water? Which are water born diseases ?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "7",
   },
   {
     question:
-      "In the video-game franchise Kingdom Hearts, the main protagonist, carries a weapon with what shape?",
-    answers: ["Key", "Sword", "Pen", "Cellphone"],
-    correct: "Key",
-    questionId: "839754"
+      " Discuss household water purification methods? What is chlorine demand?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "8",
+  },
+  {
+    question: " What is horrock’s apparatus? What is free chlorine ?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "9",
   },
   {
     question:
-      "Which best selling toy of 1983 caused hysteria, resulting in riots breaking out in stores?",
-    answers: [
-      "Cabbage Patch Kids",
-      "Transformers",
-      "Care Bears",
-      "Rubik’s Cube"
-    ],
-    correct: "Cabbage Patch Kids",
-    questionId: "98390"
-  },
-  {
-    question: "What does a funambulist walk on?",
-    answers: ["A Tight Rope", "Broken Glass", "Balls", "The Moon"],
-    correct: "A Tight Rope",
-    questionId: "1071006"
-  },
-  {
-    question: "In past times, what would a gentleman keep in his fob pocket?",
-    answers: ["Watch", "Money", "Keys", "Notebook"],
-    correct: "Watch",
-    questionId: "1174154"
-  },
-  {
-    question: "Area 51 is located in which US state?",
-    answers: ["Nevada", "Arizona", "New Mexico", "Utah"],
-    correct: "Nevada",
-    questionId: "1226535"
-  },
-  {
-    question: "How would one say goodbye in Spanish?",
-    answers: ["Adiós", " Hola", "Au Revoir", "Salir"],
-    correct: "Adiós",
-    questionId: "1310938"
-  },
-  {
-    question: "What is the largest organ of the human body?",
-    answers: ["Skin", "Heart", "large Intestine", "Liver"],
-    correct: "Skin",
-    questionId: "1436873"
-  },
-  {
-    question: "Which sign of the zodiac is represented by the Crab?",
-    answers: ["Cancer", "Libra", "Virgo", "Sagittarius"],
-    correct: "Cancer",
-    questionId: "1515110"
-  },
-  {
-    question: "On a dartboard, what number is directly opposite No. 1?",
-    answers: ["19", "20", "12", "15"],
-    correct: "19",
-    questionId: "1642728"
+      " What is hard water/water hardness? How to remove water hardness?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "10",
   },
   {
     question:
-      "What does the 'S' stand for in the abbreviation SIM, as in SIM card? ",
-    answers: ["Subscriber", "Single", "Secure", "Solid"],
-    correct: "Subscriber",
-    questionId: "1747256"
+      " How would you explain the technique for preparing home-based ORS to the mother with a child having diarrhoea with no dehydration?Content of ORS? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "11",
   },
   {
     question:
-      "What word represents the letter 'T' in the NATO phonetic alphabet?",
-    answers: ["Tango", "Target", "Taxi", "Turkey"],
-    correct: "Tango",
-    questionId: "1822532"
+      " What is diarrhoea ? Which home based food given enhances recovery? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "12",
   },
   {
-    question: "Which American president appears on a one dollar bill?",
-    answers: [
-      "George Washington",
-      "Thomas Jefferson",
-      "Abraham Lincoln",
-      "Benjamin Franklin"
-    ],
-    correct: "George Washington",
-    questionId: "195075"
+    question: " What is dysentery? Cuase of dysentery? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "13",
   },
   {
-    question: 'What is "dabbing"?',
-    answers: ["A dance", "A medical procedure", "A sport", "A language"],
-    correct: "A dance",
-    questionId: "2019778"
-  },
-  {
-    question: "What is the name of the Jewish New Year?",
-    answers: ["Rosh Hashanah", "Elul", "New Year", "Succoss"],
-    correct: "Rosh Hashanah",
-    questionId: "2134343"
-  },
-  {
-    question: "Which one of the following rhythm games was made by Harmonix?",
-    answers: [
-      "Rock Band",
-      "Meat Beat Mania",
-      "Guitar Hero Live",
-      "Dance Dance Revolution"
-    ],
-    correct: "Rock Band",
-    questionId: "2210799"
+    question: " How would you define overcrowding? How it affects health ? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "14",
   },
   {
     question:
-      "What type of animal was Harambe, who was shot after a child fell into it's enclosure at the Cincinnati Zoo?",
-    answers: ["Gorilla", "Tiger", "Panda", "Crocodile"],
-    correct: "Gorilla",
-    questionId: "2379831"
+      " Which are the barriers to seeking healthcare? One method to overcome the barrier? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "15",
   },
   {
-    question: "Red Vines is a brand of what type of candy?",
-    answers: ["Licorice", "Lollipop", "Chocolate", "Bubblegum"],
-    correct: "Licorice",
-    questionId: "2426418"
-  },
-  {
-    question: "What is the nickname of the US state of California?",
-    answers: ["Golden State", "Sunshine State", "Bay State", "Treasure State"],
-    correct: "Golden State",
-    questionId: "2510086"
-  },
-  {
-    question: "What is on display in the Madame Tussaud's museum in London?",
-    answers: [
-      "Wax sculptures",
-      "Designer clothing",
-      "Unreleased film reels",
-      "Vintage cars"
-    ],
-    correct: "Wax sculptures",
-    questionId: "2685745"
+    question: " What do you mean by vectors ? Name some vectors ? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "16",
   },
   {
     question:
-      "What was the nickname given to the Hughes H-4 Hercules, a heavy transport flying boat which achieved flight in 1947?",
-    answers: ["Spruce Goose", "Noah's Ark", "Fat Man", "Trojan Horse"],
-    correct: "Spruce Goose",
-    questionId: "2796884"
-  },
-  {
-    question: "Which of these colours is NOT featured in the logo for Google?",
-    answers: ["Pink", "Yellow", "Blue", "Green"],
-    correct: "Pink",
-    questionId: "2838900"
-  },
-  {
-    question: 'What is the French word for "hat"?',
-    answers: ["Chapeau", "Bonnet", " Écharpe", " Casque"],
-    correct: "Chapeau",
-    questionId: "298060"
-  },
-  {
-    question: "Five dollars is worth how many nickles?",
-    answers: ["100", "50", "25", "69"],
-    correct: "100",
-    questionId: "3096579"
-  },
-  {
-    question: "Who is depicted on the US hundred dollar bill?",
-    answers: [
-      "Benjamin Franklin",
-      "George Washington",
-      "Abraham Lincoln",
-      "Thomas Jefferson"
-    ],
-    correct: "Benjamin Franklin",
-    questionId: "3182461"
-  },
-  {
-    question: "What do the letters in the GMT time zone stand for?",
-    answers: [
-      "Greenwich Mean Time",
-      "Global Meridian Time",
-      "General Median Time",
-      "Glasgow Man Time"
-    ],
-    correct: "Greenwich Mean Time",
-    questionId: "3239112"
-  },
-  {
-    question: "Which one of these is not a typical European sword design?",
-    answers: ["Scimitar", "Falchion", "Ulfberht", "Flamberge"],
-    correct: "Scimitar",
-    questionId: "3318503"
+      " Name two diseases spread by vectors? Dengue is spread by which mosquito? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "17",
   },
   {
     question:
-      'According to Sherlock Holmes, "If you eliminate the impossible, whatever remains, however improbable, must be the..."',
-    answers: ["Truth", "Answer", "Cause", "Source"],
-    correct: "Truth",
-    questionId: "3410327"
-  },
-  {
-    question: "What is the name of Poland in Polish?",
-    answers: ["Polska", "Pupcia", "Polszka", "Póland"],
-    correct: "Polska",
-    questionId: "3542596"
-  },
-  {
-    question: "The New York Times slogan is, “All the News That’s Fit to…”",
-    answers: ["Print", "Digest", "Look", "Read"],
-    correct: "Print",
-    questionId: "3667517"
-  },
-  {
-    question: "What do the letters of the fast food chain KFC stand for?",
-    answers: [
-      "Kentucky Fried Chicken",
-      "Kentucky Fresh Cheese",
-      "Kibbled Freaky Cow",
-      "Kiwi Food Cut"
-    ],
-    correct: "Kentucky Fried Chicken",
-    questionId: "3791672"
-  },
-  {
-    question: "Which restaurant's mascot is a clown?",
-    answers: ["McDonald's", "Whataburger", "Burger King", "Sonic"],
-    correct: "McDonald's",
-    questionId: "3893585"
-  },
-  {
-    question: 'What color is the "Ex" in FedEx Ground?',
-    answers: ["Green", "Red", "Light Blue", "Orange"],
-    correct: "Green",
-    questionId: "3913430"
-  },
-  {
-    question: "How tall is the Burj Khalifa?",
-    answers: ["2,722 ft", "2,717 ft", "2,546 ft", "3,024 ft"],
-    correct: "2,722 ft",
-    questionId: "4049121"
+      " Which are the diseases transmitted by mosquitoes? Agent for filaria? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "18",
   },
   {
     question:
-      "Which of the following card games revolves around numbers and basic math?",
-    answers: ["Uno", "Go Fish", "Twister", "Munchkin"],
-    correct: "Uno",
-    questionId: "4150746"
+      " Which are the diseases transmitted by houseflies? What is sanitation barrier? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "19",
   },
   {
     question:
-      "What machine element is located in the center of fidget spinners?",
-    answers: ["Bearings", "Axles", "Gears", "Belts"],
-    correct: "Bearings",
-    questionId: "4235063"
-  },
-  {
-    question: "Which sign of the zodiac comes between Virgo and Scorpio?",
-    answers: ["Libra", "Gemini", "Taurus", "Capricorn"],
-    correct: "Libra",
-    questionId: "4321002"
-  },
-  {
-    question: "Which of the following presidents is not on Mount Rushmore?",
-    answers: [
-      "John F. Kennedy",
-      "Theodore Roosevelt",
-      "Abraham Lincoln",
-      "Thomas Jefferson"
-    ],
-    correct: "John F. Kennedy",
-    questionId: "4442286"
-  },
-  {
-    question: "What is Tasmania?",
-    answers: [
-      "An Australian State",
-      "A flavor of Ben and Jerry's ice-cream",
-      "A Psychological Disorder",
-      "The Name of a Warner Brothers Cartoon Character"
-    ],
-    correct: "An Australian State",
-    questionId: "4564430"
-  },
-  {
-    question: "What company developed the vocaloid Hatsune Miku?",
-    answers: ["Crypton Future Media", "Sega", "Sony", "Yamaha Corporation"],
-    correct: "Crypton Future Media",
-    questionId: "4630606"
+      " Explain the characteristics of eggs of Anopheles, Culex and Ades mosquitos. ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "20",
   },
   {
     question:
-      "Which country, not including Japan, has the most people of japanese decent?",
-    answers: ["Brazil", "China", "South Korea", "United States of America"],
-    correct: "Brazil",
-    questionId: "4795960"
+      " Explain the characteristics of larva of Anopheline and culicine mosquito.Name one anti-larval control measure? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "21",
   },
   {
-    question: "Which candy is NOT made by Mars?",
-    answers: ["Almond Joy", "M&M's", "Twix", "Snickers"],
-    correct: "Almond Joy",
-    questionId: "4811162"
+    question: " Which are the live vaccines ? By which route BCG is given ? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "22",
   },
   {
-    question: "In which fast food chain can you order a Jamocha Shake?",
-    answers: ["Arby's", "McDonald's", "Burger King", "Wendy's"],
-    correct: "Arby's",
-    questionId: "4982981"
-  }
+    question: " What is killed vaccine ?Route of Hepatitis B vaccine? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "23",
+  },
+  {
+    question:
+      " What is the minimum gap between two vaccines?Age at which MR first does is given? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "24",
+  },
+  {
+    question:
+      " How MR vaccine is diluted? Which diseases are prevented by MR vaccine? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "25",
+  },
+  {
+    question:
+      " What is OPV? How OPV is given and how it helps in control of Polio? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "26",
+  },
+  {
+    question:
+      " Commonest cause of diarrhoea in infant? When rota-vaccine is given? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "27",
+  },
+  {
+    question:
+      " How long ORS can be used once prepared? How to give ORS to child? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "28",
+  },
+  {
+    question:
+      " What is the dose of one chlorine tablet? One tablet can be used for how much quantity of water? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "29",
+  },
+  {
+    question: " What is breakpoint chlorination? What is free chlorine?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "30",
+  },
+  {
+    question:
+      " How much chlorine is present in chlorine tablet?How to decide the chlorine demand?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "31",
+  },
+  {
+    question:
+      " How we can confirm that chlorine is present in tablet or powder or whatever form has been given? How will you check free chlorine",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "32",
+  },
+  {
+    question: " What is orthotoludin arsenite ? What is chloroscope ?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "33",
+  },
+  {
+    question:
+      " How to measure volume of water in well? How much good quality of bleaching powder is needed to 1000lt of water?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "34",
+  },
+  {
+    question: " What is the color of BCG vaccine? Diluents used for BCG?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "35",
+  },
+  {
+    question:
+      " What is the color of Measles vaccine? Diluents used for Measles vaccine?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "36",
+  },
+  {
+    question:
+      " What is ADS full form ? Why ADS used in immunization or elsewhere?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "37",
+  },
+  {
+    question:
+      " When pentalvalent vaccine given ? Which are the content of Pentavalent vaccine?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "38",
+  },
+  {
+    question:
+      " BCG can be given upto ? Which are the four key messages to be given to mother after vaccination?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "39",
+  },
+  {
+    question:
+      " What is exclusive breast feeding? How many times child should be breast fed ?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "40",
+  },
+  {
+    question:
+      " Where aedes mosquitoes breed? (Places)How to control that breeding?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "41",
+  },
+  {
+    question:
+      " Where Culex mosquitoes breed? (Places)How to control that breeding?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "42",
+  },
+  {
+    question:
+      " Where anopheles mosquitoes breed? (places)How to control that breeding?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "43",
+  },
+  {
+    question: " What is VVM ? What is the purpose of VVM?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "44",
+  },
+  {
+    question: " Which are four key messages given after vaccination?",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "45",
+  },
+  {
+    question:
+      " What is macro-nutrient and micro-nutrient? Describe common sources of Vitamin A and Iron.  ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "46",
+  },
+  {
+    question:
+      " Which are fat soluble vitamins? Tell about clinical features of Vitamin D and Iodine deficiency. ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "47",
+  },
+  {
+    question:
+      " What is range of normal waist hip ratio for males and females?  What is clinical significance of waist hip ratio?  ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "48",
+  },
+  {
+    question:
+      " What is chemical contamination of water? Describes various toxic manifestation of Endemic fluorosis ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "49",
+  },
+  {
+    question:
+      " What is underweight –define.  Describe manifestations of kwashiorkor ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "50",
+  },
+  {
+    question:
+      " What is xeropthalmia? Discuss the Vitamin A supplementation guidelines for children from 0 to 5 years ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "51",
+  },
+  {
+    question:
+      " Which are different formulations of oral and parenteral iron therapy? Tell the content of adult and paediatric iron preparation under the national programme ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "52",
+  },
+  {
+    question:
+      " What is nutritional surveillance? Which are the indicators used in nutritional surveillance?  ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "53",
+  },
+  {
+    question:
+      " How poverty affect nutritional status of individual? Name two nutritional programme of govt? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "54",
+  },
+  {
+    question: " What is ICDS? Who are the beneficiaries of ICDS program?  ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "55",
+  },
+  {
+    question:
+      " What is food fortification? Give examples of food fortification ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "56",
+  },
+  {
+    question:
+      " Which are the nutrients used as food fortification? What is the need of food fortification? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "57",
+  },
+  {
+    question: " What is food adulteration? Give some examples.. ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "58",
+  },
+  {
+    question: " What is colliform test? How to interpret it? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "59",
+  },
+  {
+    question:
+      " What is flourosis? Where dental flourosis is common in Gujarat? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "60",
+  },
+  {
+    question:
+      " What do you mean by water born diseases? List the water borne diseases?  ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "61",
+  },
+  {
+    question: " What is water washed diseases? Explain with example ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "62",
+  },
+  {
+    question:
+      " What is difference between sewage and sullage? What is door to door collection of garbage? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "63",
+  },
+  {
+    question:
+      " What do you mean by sanitary barrier ? Give example of sanitary barrier ? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "64",
+  },
+  {
+    question: " What is malnutrition? What is kwashiorkor ? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "65",
+  },
+  {
+    question: " What is PEM? Which are the signs of marasmus? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "66",
+  },
+  {
+    question: " What is PEM? Type of PEM ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "67",
+  },
+  {
+    question: " What is SAM? How to measures define SAM? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "68",
+  },
+  {
+    question: " What is BMI? Define various categories? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "69",
+  },
+  {
+    question:
+      " What cereals examples? What is max protein content of Soyabean? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "70",
+  },
+  {
+    question:
+      " What is daily protein requirement of normal person? List five rich source of protein? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "71",
+  },
+  {
+    question:
+      " Which are water soluble vitamins ? Signs of vit B1 deficinecy? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "72",
+  },
+  {
+    question:
+      " Which are essential fatty acids? Deficiency of EFA leads to …. ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "73",
+  },
+  {
+    question:
+      " What is Mission Bullum Sukham ? What is National Iron supplementation program? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "74",
+  },
+  {
+    question:
+      " What is goitre? Which are the signs and symptoms of Iodine deficiency? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "75",
+  },
+  {
+    question: " What is pre-lacteal? Should it be given or not? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "76",
+  },
+  {
+    question:
+      " Who are the beneficiaries of ICDS? Who are the stake holders of ICDS? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "77",
+  },
+  {
+    question:
+      " What is the role of helper in Anganwadi under ICDS? What is supplementary nutrition? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "78",
+  },
+  {
+    question:
+      " Bi annual Vitamin A prophylaxis round has been carried out in which two months? Food fortification of salt is with _______________ in India.  ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "79",
+  },
+  {
+    question:
+      " How the growth of child is monitored at Anganwadi under ICDS? What do you mean by road to health? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "80",
+  },
+  {
+    question:
+      " Difference between food additive s and food adultration? Example of food additive? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "81",
+  },
+  {
+    question: " Explain fluoride is two edge sword? Types of fluorosis? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "82",
+  },
+  {
+    question:
+      " How overcrowding is measured? What is psychological overcrowding? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "83",
+  },
+  {
+    question:
+      " Describe diffrent methods of weight mesurement? what is LBW baby? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "84",
+  },
+  {
+    question: " Define very low birth weight. Etiology of LBW ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "85",
+  },
+  {
+    question: " What is beriberi? Which vit cause it? ",
+    answers: ["Answered", "Not Answered"],
+    correct: "Answered",
+    questionId: "86",
+  },
 ];
 
 export default (n = 5) =>
