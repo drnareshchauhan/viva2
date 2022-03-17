@@ -167,7 +167,7 @@ const vivaTwo = [
   },
   {
     question:
-      " What is daily protein requirement of normal person? List five rich source of protein? ",
+      " What is daily protein requirement of a normal person? List five rich sources of protein? ",
     answers: ["Answered", "Not Answered"],
     correct: "Answered",
     questionId: "26",
