@@ -42,7 +42,7 @@ h6 {
 }
 .navbar li a {
   font-size: 1.5rem;
-  font-weight: lighter;
+  font-weight: 400;
   position: relative;
 }
 .navbar li a:hover {
@@ -354,6 +354,7 @@ footer li {
   cursor: pointer;
   margin: 1rem 0;
 }
+
 footer .main-hero-para {
   margin: 0;
 }
@@ -506,9 +507,10 @@ footer .fontawsome-style:hover {
 @media (max-width: 998px) {
   .navbar .navbar-collapse {
     margin-top: 1rem;
-    background-color: #fff;
+    background-color: rgb(233, 231, 231);
     padding: 2rem 1rem;
   }
+
   .input-group .btn-style {
     font-size: 1.2rem;
   }
@@ -520,6 +522,7 @@ footer .fontawsome-style:hover {
     padding-right: 1rem;
     width: 100%;
     margin-left: 1rem;
+    color: steelblue;
   }
   .main-hero-container .header-left-side {
     padding-left: 4rem;
