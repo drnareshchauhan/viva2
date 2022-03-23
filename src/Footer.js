@@ -180,7 +180,7 @@ const Footer = () => {
                   target="_blank"
                   rel="noopener noreferrer"
                 >
-                  <p className="main-hero-para text-center w-100">
+                  <p className="main-hero-para text-center w-100 naresh">
                     ©drnareshchauhan.in
                   </p>
                 </a>
