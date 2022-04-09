@@ -108,7 +108,7 @@ const Footer = () => {
                         target="_blank"
                         rel="noopener noreferrer"
                       >
-                        psMcQ
+                        PSM exam portal
                       </a>
                     </li>
                     <li>
